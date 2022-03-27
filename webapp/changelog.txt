@@ -1,0 +1,30 @@
+Membuat kelas Taxi.java.
+Memperbaiki kelas Taxi.java.
+Memperbaiki kelas Taxi.java.
+Membuat kelas Penumpang.java.
+Memperbaiki kelas Taxi.java.
+Memperbaiki kelas Taxi.java, Penumpang.java.
+Memperbaiki kelas Taxi.java, Penumpang.java.
+Memperbaiki kelas Taxi.java, Penumpang.java.
+Memperbaiki kelas Taxi.java, Penumpang.java.
+Memperbaiki kelas Taxi.java.
+Memperbaiki kelas Taxi.java, Penumpang.java.
+Memperbaiki kelas Taxi.java.
+Memperbaiki kelas Taxi.java.
+Memperbaiki kelas Taxi.java.
+Memperbaiki kelas Taxi.java.
+Memperbaiki kelas Taxi.java, Penumpang.java.
+Membuat kelas UsingDatabase.java, dan Driver.java.
+Memperbaiki Driver.java, Taxi.java, Penumpang.java, UsingDatabase.java.
+Memperbaiki MakeFile.
+Memperbaiki MakeFile.
+Membuat Driver.java dan UsingDatabase.java.
+Memperbaiki Package.
+Memperbaiki Database.
+Memperbaiki Database.
+Memperbaiki Driver.java, Taxi.java, Penumpang.java, UsingDatabase.java.
+Memperbaiki Taxi.java, dan Penumpang.java.
+Memperbaiki Database.
+Memperbaiki Database.
+Memperbaiki Driver.java, Taxi.java, Penumpang.java, UsingDatabase.java.
+Memperbaiki Driver.java, Taxi.java, Penumpang.java, UsingDatabase.java.

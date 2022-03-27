@@ -1,0 +1,5 @@
+compile :
+	javac src/bulutaxi/*.java -d bin
+
+test:
+	cd bin && java -classpath ".;../Libraries/sqlite-jdbc.jar" bulutaxi
