@@ -1,4 +1,4 @@
-# 2021-project-12-bulu-taxi
+# 2021-project-bulu-taxi
 
 Penjabaran Mengenai Topik
 
@@ -29,3 +29,5 @@ Deskripsi tambahan sistem
 - Perilaku actor dalam sistem
 1) Pengguna harus mengakses sistem tersebut terlebih dahulu.
 2) Setiap pengguna (driver) mendaftarkan data diri penumpang.
+
+Read the [Analysis](/analysis.md) for futher information.
