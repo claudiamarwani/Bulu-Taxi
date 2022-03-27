@@ -20,8 +20,6 @@ Dengan ketentuan tarif taxi sebagai berikut.
 - Tarif perjalanan penumpang per km adalah Rp. 4.350. 
 - Tarif perjalanan penumpang per jam adalah Rp. 45.000.
 
-Dalam sistem ini, memberikan potongan harga sebesar 10% untuk yang telah melakukan minimal 5 kali perjalanan kepada penumpang yang sudah berulang menggunakan Jasa taxi dan jumlah tagihan yang dibayarkan di atas Rp. 1.000.000.
-
 Deskripsi tambahan sistem
 - Bentuk rupa system
 1) Sistem ini merupakan sistem yang akan menampilkan hasil atau output nya pada console, jadi tidak berupa sistem informasi ataupun aplikasi.
@@ -29,5 +27,8 @@ Deskripsi tambahan sistem
 - Perilaku actor dalam sistem
 1) Pengguna harus mengakses sistem tersebut terlebih dahulu.
 2) Setiap pengguna (driver) mendaftarkan data diri penumpang.
+
+
+
 
 Read the [Analysis](/analysis.md) for futher information.
