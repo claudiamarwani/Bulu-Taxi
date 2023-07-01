@@ -1,6 +1,5 @@
 # Project Bulu Taxi (2021)
 
-Penjabaran Mengenai Topik
 
 Bulu Taxi adalah sebuah startup company yang berbasis pada penyedia layanan taxi yang ingin mengembangkan aplikasi dalam pencatatan dan penghitungan semua tarif taxi pada setiap driver tersebut. Dalam pengembangan tersebut membutuhkan developer untuk mengembangkan sistem ini. 
 
